@@ -88,9 +88,20 @@ propertyIsEnum
 radio
 reset
 screenX
-screenY	scroll	secure
-select	self	setInterval	setTimeout
-status	submit	taint	text
-textarea	top	unescape	untaint
+screenY
+scroll
+secure
+select
+self
+setInterval
+setTimeout
+status
+submit
+taint
+text
+textarea
+top
+unescape
+untaint
 window
  */
