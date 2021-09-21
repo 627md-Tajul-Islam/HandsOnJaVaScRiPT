@@ -5,6 +5,8 @@ var _canI = 'yes'
 var $text = 'yes'
 
 // unvalid
+/*
 var !name = 'name';
 var #name = 'name';
 var @name = 'name';
+ */
