@@ -24,8 +24,13 @@ extends*
 false
 final
 finally
-float	for	function
-                               goto	if	implements	import*
+float
+for
+function
+goto
+if
+implements
+import*
 in	instanceof	int	interface
 let*	long	native	new
 null	package	private	protected
