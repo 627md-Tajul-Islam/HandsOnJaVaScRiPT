@@ -76,10 +76,19 @@ outerHeight
 outerWidth
 packages
 pageXOffset
-pageYOffset	parent	parseFloat
-parseInt	password	pkcs11	plugin
-prompt	propertyIsEnum	radio	reset
-screenX	screenY	scroll	secure
+pageYOffset
+parent
+parseFloat
+parseInt
+password
+pkcs11
+plugin
+prompt
+propertyIsEnum
+radio
+reset
+screenX
+screenY	scroll	secure
 select	self	setInterval	setTimeout
 status	submit	taint	text
 textarea	top	unescape	untaint
