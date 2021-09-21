@@ -1,9 +1,22 @@
 /*
 Array
 Date
-eval	function
-hasOwnProperty	Infinity	isFinite	isNaN
-isPrototypeOf	length	Math	NaN
-name	Number	Object	prototype
-String	toString	undefined	valueOf
+eval
+function
+hasOwnProperty
+Infinity
+isFinite
+isNaN
+isPrototypeOf
+length
+Math
+NaN
+name
+Number
+Object
+prototype
+String
+toString
+undefined
+valueOf
  */
