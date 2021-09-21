@@ -1,5 +1,5 @@
-In JavaScript you cannot use these reserved words as variables, labels, or function names:
-    abstract
+//In JavaScript you cannot use these reserved words as variables, labels, or function names:
+abstract
 arguments
 await*
 boolean
@@ -51,8 +51,16 @@ super*
 switch
 synchronized
 this
-    throw	throws	transient	true
-    try	typeof	var	void
-    volatile	while	with	yield
-
-        Words marked with* are new in ECMAScript 5 and 6.
+throw
+ throws
+transient
+true
+try
+typeof
+ var
+ void
+volatile
+while
+ with
+yield
+//Words marked with* are new in ECMAScript 5 and 6.
