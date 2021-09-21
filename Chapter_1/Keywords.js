@@ -31,8 +31,14 @@ goto
 if
 implements
 import*
-in	instanceof	int	interface
-let*	long	native	new
+in
+instanceof
+int
+interface
+let*
+long
+native
+new
 null	package	private	protected
 public	return	short	static
 super*	switch	synchronized	this
