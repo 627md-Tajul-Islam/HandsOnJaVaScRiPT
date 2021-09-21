@@ -43,10 +43,22 @@ document
 element
 elements
 embed
-embeds	encodeURI	encodeURIComponent	escape
-event	fileUpload	focus	form
-forms	frame	innerHeight	innerWidth
-layer	layers	link	location
+embeds
+encodeURI
+encodeURIComponent
+escape
+event
+fileUpload
+focus
+form
+forms
+frame
+innerHeight
+innerWidth
+layer
+layers
+link
+location
 mimeTypes	navigate	navigator	frames
 frameRate	hidden	history	image
 images	offscreenBuffering	open	opener
