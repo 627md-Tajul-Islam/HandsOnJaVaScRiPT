@@ -19,8 +19,14 @@ String
 toString
 undefined
 valueOf
-alert	all	anchor	anchors
-area	assign	blur	button
+alert
+all
+anchor
+anchors
+area
+assign
+blur
+button
 checkbox	clearInterval	clearTimeout	clientInformation
 close	closed	confirm	constructor
 crypto	decodeURI	decodeURIComponent	defaultStatus
