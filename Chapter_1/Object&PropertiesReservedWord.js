@@ -27,10 +27,22 @@ area
 assign
 blur
 button
-checkbox	clearInterval	clearTimeout	clientInformation
-close	closed	confirm	constructor
-crypto	decodeURI	decodeURIComponent	defaultStatus
-document	element	elements	embed
+checkbox
+clearInterval
+clearTimeout
+clientInformation
+close
+closed
+confirm
+constructor
+crypto
+decodeURI
+decodeURIComponent
+defaultStatus
+document
+element
+elements
+embed
 embeds	encodeURI	encodeURIComponent	escape
 event	fileUpload	focus	form
 forms	frame	innerHeight	innerWidth
