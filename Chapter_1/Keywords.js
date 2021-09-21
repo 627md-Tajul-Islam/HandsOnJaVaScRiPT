@@ -1,4 +1,5 @@
 //In JavaScript you cannot use these reserved words as variables, labels, or function names:
+/*
 abstract
 arguments
 await*
@@ -63,4 +64,6 @@ volatile
 while
  with
 yield
+
+ */
 //Words marked with* are new in ECMAScript 5 and 6.
