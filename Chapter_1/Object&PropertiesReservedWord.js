@@ -59,11 +59,24 @@ layer
 layers
 link
 location
-mimeTypes	navigate	navigator	frames
-frameRate	hidden	history	image
-images	offscreenBuffering	open	opener
-option	outerHeight	outerWidth	packages
-pageXOffset	pageYOffset	parent	parseFloat
+mimeTypes
+navigate
+navigator
+frames
+frameRate
+hidden
+history
+image
+images
+offscreenBuffering
+open
+opener
+option
+outerHeight
+outerWidth
+packages
+pageXOffset
+pageYOffset	parent	parseFloat
 parseInt	password	pkcs11	plugin
 prompt	propertyIsEnum	radio	reset
 screenX	screenY	scroll	secure
